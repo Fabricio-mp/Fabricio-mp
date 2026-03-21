@@ -6,7 +6,12 @@
   - Meu nome é Fabricio Mendes Pereira <br>
   - Atualmente aprendendo: HTML, CSS, JavaScript, React e Node.js<br>
   - Aqui você encontrará alguns dos meus projetos.<br>
-  - Entre em contato comigo em: **fabriciomp0205@gmail.com** <br>
+  - Entre em contato comigo em: **fabriciomendes0205@gmail.com**. <br>
+  - Meu portfólio: [Portfólio](https://www.linkedin.com/in/fabricio-mendes-pereira-fmp/)
+  
+ 
+ 
+ 
   - Meu li
 
 </p>
@@ -43,8 +48,8 @@
 
 - Meu nome é Matheus Pizani e sou Desenvolvedor FullStack!
 - Aqui você encontrará alguns dos meus projetos.
-- Entre em contato comigo em: **fabriciom**.
-- Meu portfólio: [Portfólio](https://matheus-pizani.netlify.app/)
+- Entre em contato comigo em: **fabriciomendes0205@gmail.com**.
+- Meu portfólio: [Portfólio](https://www.linkedin.com/in/fabricio-mendes-pereira-fmp/)
 - Meu linkedin: [Linkedin](https://www.linkedin.com/in/pizanimatheus/)
 
   
