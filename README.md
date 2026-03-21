@@ -2,7 +2,14 @@
 
 ###
 
-<p align="left">- Meu nome é Fabricio Mendes Pereira <br>- Atualmente aprendendo: HTML, CSS, JavaScript, React e Node.js<br>- Aqui você encontrará alguns dos meus projetos.<br>- Entre em contato comigo em: **fabriciomp0205@gmail.com**.....<br>- Meu li</p>
+<p align="left">
+  - Meu nome é Fabricio Mendes Pereira <br>
+  - Atualmente aprendendo: HTML, CSS, JavaScript, React e Node.js<br>
+  - Aqui você encontrará alguns dos meus projetos.<br>
+  - Entre em contato comigo em: **fabriciomp0205@gmail.com** <br>
+  - Meu li
+
+</p>
 
 ###
 
