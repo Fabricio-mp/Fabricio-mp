@@ -1,4 +1,4 @@
-`Console.WriteLine("Bem-vindo ao meu GitHub!😉")`
+`Console.WriteLine("Seja bem-vindo ao meu GitHub!")`
 <h1 align="left">Olá 👋</h1>
 
 ###
