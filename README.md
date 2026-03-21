@@ -6,7 +6,7 @@
 - Meu nome é Fabricio Mendes Pereira.
 - Atualmente aprendendo: HTML, CSS, JavaScript, React e Node.js
 - Aqui você encontrará alguns dos meus projetos.
-- Entre em contato comigo em: **fabriciomp02052gmail.com**.
+- Entre em contato comigo em: **fabriciomp0205gmail.com**.
 - Meu linkedin: [Linkedin](https://www.linkedin.com/in/fabricio-mendes-pereira-fmp/)
 
   
